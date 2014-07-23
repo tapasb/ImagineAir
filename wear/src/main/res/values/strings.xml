@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImagineAir</string>
+    <string name="welcome_msg">Welcome To ImagineAir</string>
+    <string name="title_activity_arrival_flights_intent">ArrivalFlightsIntent</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_departure_pager">departure_pager</string>
+    <string name="title_activity_departure_flights_intent">DepartureFlightsIntent</string>
+
+</resources>
